@@ -1,0 +1,31 @@
+{
+  
+
+  "project_info": {
+    "project_number": "10312845681",
+    "project_id": "rivertracker-494a2",
+    "storage_bucket": "rivertracker-494a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10312845681:android:2df6b25f3eda3465218ed0",
+        "android_client_info": {
+          "package_name": "com.example.rivertracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltAXYp86At28kb18qeHvUaeSFYFgX8VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

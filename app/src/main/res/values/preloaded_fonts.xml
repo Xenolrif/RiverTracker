@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arima_madurai_bold</item>
+        <item>@font/bubblegum_sans</item>
+        <item>@font/chewy</item>
+        <item>@font/courgette</item>
+        <item>@font/happy_monkey</item>
+        <item>@font/single_day</item>
+    </array>
+</resources>
